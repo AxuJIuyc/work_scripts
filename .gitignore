@@ -2,4 +2,4 @@
 datasets/
 
 # model file
-.model.tmfile
+model.tmfile
