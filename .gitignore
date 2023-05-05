@@ -1,0 +1,5 @@
+# datasets folder
+datasets/
+
+# model file
+.model.tmfile
